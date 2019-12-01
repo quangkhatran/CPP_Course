@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPWorkspace" Database="" Version="10.0.0">
+  <Project Name="Test1" Path="Test1/Test1.project" Active="No"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="EncryptedMessage" Path="EncryptedMessage/EncryptedMessage.project" Active="No"/>
+  <Project Name="StringAssignment" Path="StringAssignment/StringAssignment.project" Active="No"/>
+  <Project Name="PointerAndReferenceAssignment" Path="PointerAndReferenceAssignment/PointerAndReferenceAssignment.project" Active="No"/>
+  <Project Name="playground" Path="playground/playground.project" Active="No"/>
+  <Project Name="ClassAndObjectsChallenge" Path="ClassAndObjectsChallenge/ClassAndObjectsChallenge.project" Active="No"/>
+  <Project Name="OperatorLoading" Path="OperatorLoading/OperatorLoading.project" Active="No"/>
+  <Project Name="InheritanceChallenge" Path="InheritanceChallenge/InheritanceChallenge.project" Active="No"/>
+  <Project Name="PolymorphismChallenge" Path="PolymorphismChallenge/PolymorphismChallenge.project" Active="No"/>
+  <Project Name="SmartPointerChallenge" Path="SmartPointerChallenge/SmartPointerChallenge.project" Active="No"/>
+  <Project Name="ExceptionHandlingChallenge" Path="ExceptionHandlingChallenge/ExceptionHandlingChallenge.project" Active="No"/>
+  <Project Name="StreamManipulatorChallenge" Path="StreamManipulatorChallenge/StreamManipulatorChallenge.project" Active="No"/>
+  <Project Name="ReadingTextFileChallenge" Path="ReadingTextFileChallenge/ReadingTextFileChallenge.project" Active="No"/>
+  <Project Name="ReadingTextFileChallenge2" Path="ReadingTextFileChallenge2/ReadingTextFileChallenge2.project" Active="No"/>
+  <Project Name="WritingToTextFileChallenge" Path="WritingToTextFileChallenge/WritingToTextFileChallenge.project" Active="No"/>
+  <Project Name="STL_Challenge1" Path="STL_Challenge1/STL_Challenge1.project" Active="No"/>
+  <Project Name="STL_Challenge2" Path="STL_Challenge2/STL_Challenge2.project" Active="No"/>
+  <Project Name="STL_Challenge3" Path="STL_Challenge3/STL_Challenge3.project" Active="No"/>
+  <Project Name="STL_Challenge4" Path="STL_Challenge4/STL_Challenge4.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Test1" ConfigName="Debug"/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="EncryptedMessage" ConfigName="Debug"/>
+      <Project Name="StringAssignment" ConfigName="Debug"/>
+      <Project Name="PointerAndReferenceAssignment" ConfigName="Debug"/>
+      <Project Name="playground" ConfigName="Debug"/>
+      <Project Name="ClassAndObjectsChallenge" ConfigName="Debug"/>
+      <Project Name="OperatorLoading" ConfigName="Debug"/>
+      <Project Name="InheritanceChallenge" ConfigName="Debug"/>
+      <Project Name="PolymorphismChallenge" ConfigName="Debug"/>
+      <Project Name="SmartPointerChallenge" ConfigName="Debug"/>
+      <Project Name="ExceptionHandlingChallenge" ConfigName="Debug"/>
+      <Project Name="StreamManipulatorChallenge" ConfigName="Debug"/>
+      <Project Name="ReadingTextFileChallenge" ConfigName="Debug"/>
+      <Project Name="ReadingTextFileChallenge2" ConfigName="Debug"/>
+      <Project Name="WritingToTextFileChallenge" ConfigName="Debug"/>
+      <Project Name="STL_Challenge1" ConfigName="Debug"/>
+      <Project Name="STL_Challenge2" ConfigName="Debug"/>
+      <Project Name="STL_Challenge3" ConfigName="Debug"/>
+      <Project Name="STL_Challenge4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Test1" ConfigName="Release"/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="EncryptedMessage" ConfigName="Release"/>
+      <Project Name="StringAssignment" ConfigName="Release"/>
+      <Project Name="PointerAndReferenceAssignment" ConfigName="Release"/>
+      <Project Name="playground" ConfigName="Release"/>
+      <Project Name="ClassAndObjectsChallenge" ConfigName="Release"/>
+      <Project Name="OperatorLoading" ConfigName="Release"/>
+      <Project Name="InheritanceChallenge" ConfigName="Release"/>
+      <Project Name="PolymorphismChallenge" ConfigName="Release"/>
+      <Project Name="SmartPointerChallenge" ConfigName="Release"/>
+      <Project Name="ExceptionHandlingChallenge" ConfigName="Release"/>
+      <Project Name="StreamManipulatorChallenge" ConfigName="Release"/>
+      <Project Name="ReadingTextFileChallenge" ConfigName="Release"/>
+      <Project Name="ReadingTextFileChallenge2" ConfigName="Release"/>
+      <Project Name="WritingToTextFileChallenge" ConfigName="Release"/>
+      <Project Name="STL_Challenge1" ConfigName="Release"/>
+      <Project Name="STL_Challenge2" ConfigName="Release"/>
+      <Project Name="STL_Challenge3" ConfigName="Release"/>
+      <Project Name="STL_Challenge4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
